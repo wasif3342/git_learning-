@@ -1,26 +1,26 @@
-<<<<<<< HEAD
-Hello my name is wasif ali 
-=======
-hello git test 
+o<<<<<<< HEAD.
+Hello my name is wasif ali .
+=======.
+hello git test. 
 >>>>>>> 0f1532e1408dfa510120173ff84e9913da26753c
 hello I am wasif ali 
 I am muslim
-this is what
-what is this 
-that is this
-this is that
-hello wasif
-
-
-
-<<<<<<< HEAD
-Hello my name is wasif ali 
-=======
-hello git test 
->>>>>>> 0f1532e1408dfa510120173ff84e9913da26753c
-hello I am wasif ali 
-I am muslim
-this is what
-what is this 
+this is what.
+what is this .
 that is this.
-this is that
+this is that.
+hello wasif.
+hello .
+
+
+<<<<<<< HEAD.
+Hello my name is wasif ali. 
+=======
+hello git test .
+>>>>>>> 0f1532e1408dfa510120173ff84e9913da26753c.
+hello I am wasif ali .
+I am muslim.
+this is what.
+what is this .
+that is this.
+this is that.

@@ -1,2 +1,6 @@
-wasif ali 
+wasif ali ..
 
+<<<<<<< HEAD ..
+=======
+
+>>>>>>> 8689cd3fd904bf95f98ca1592904051fb65723d4
