@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+o<<<<<<< HEAD
 Hello my name is wasif ali 
 =======
 hello git test 
@@ -10,7 +10,7 @@ what is this
 that is this
 this is that
 hello wasif
-
+hello 
 
 
 <<<<<<< HEAD
